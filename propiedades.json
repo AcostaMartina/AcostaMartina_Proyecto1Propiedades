@@ -1,0 +1,612 @@
+[
+    {
+        "type": "casas",
+        "price": "U$S 2.100.000",
+        "description": "Casa en excelente estado ideal residencial,con 14 habitaciones(4 de ellas en suite),9 ba\u00f1os,2 estar ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 980.000",
+        "description": "Donde funcionaba un centro educativo , con su funcionalidad para dicha tarea, areas amplias luminosa ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 950.000",
+        "description": "Esta en inmejorable estado y consta de planta baja y 4 pisos(tiene ascensor),son 414 m2 construidos. ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 790.000",
+        "description": "Excelente casa en 3 niveles, de finas terminaciones, con la mejor vista al mar, 2 entradas independi ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 750.000",
+        "description": "Venta de muy buena casa de 3 dormitorios 3 ba\u00f1os en barrio privado colinas de carrasco.\nLa misma se ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 750.000",
+        "description": "Venta de muy buena casa de 3 dormitorios 3 ba\u00f1os en barrio privado colinas de carrasco.\nLa misma se ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 690.000",
+        "description": "Chalet Exclusivo en Punta Gorda: Ideal para Uso Familiar o Corporativo\nUbicado en una zona privilegi ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 620.000",
+        "description": "Excelente residencia, a 200 metros de playa mansa, sobre avenida principal, construcci\u00f3n doble pare ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 595.000",
+        "description": "Muy buena casa en lo mejor de Punta Gorda, para entrar, en impecable estado, todas las comodidades y ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 580.000",
+        "description": "o  Excelente Propiedad Frente a la playa en Atl\u00e1ntida:\nUbicada en una zona privilegiada frente al m ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 540.000",
+        "description": "Casa americana, en dos plantas, impecable, ideal familia numerosa, consta en planta baja de jard\u00edn  ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 540.000",
+        "description": "Oportunidad \u00fanica en Parque Rod\u00f3: Casa para reciclar con un gran potencial\n\nTe presentamos esta ex ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 510.000",
+        "description": "Casa con un amplio terreno con salida a dos calles(esto no hay), a pasos  del mar , muy luminosa con ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 480.000",
+        "description": "Excelente residencia en Atl\u00e1ntida, con vista al mar, a metros bajada a la playa.\nEn un \u00e1rea de ter ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 460.000",
+        "description": "Casa PH en 3 niveles, consta de planta subsuelo con play- room  con cuarto de servicio completo, lav ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 450.000",
+        "description": "En Lagomar sur muy cerca de rambla se encuentra \u00e9ste exclusivo complejo multifunci\u00f3n.\nCuenta con u ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 440.000",
+        "description": "BARRIO JARD\u00cdN HUERTAS DE LOS HORNEROS El proyecto es un nuevo desarrollo residencial sobre Camino d ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 430.000",
+        "description": "VENTA DE COMPLEJO TUR\u00cdSTICO MUY COMPLETO EN FUNCIONAMIENTO , CON CARTERA DE CLIENTES ASIDUOS COMPRO ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 420.000",
+        "description": "Hermosa casa en venta en San Jose Carrasco con piscina, barbacoa en un gran parque de 1000 m2 comple ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 400.000",
+        "description": "Espectacular casa esquina sobre Bvar Artigas a pocas cuadras de la terminal Tres Cruces, se vende co ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 400.000",
+        "description": "Excelente casa en una sola planta, tipo americana, muy bien distribuida, luminosa, orientaci\u00f3n (est ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 395.000",
+        "description": "Se vende espectacular residencia de gran porte en el Prado de Montevideo. \nLa misma se desarrolla en ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 390.000",
+        "description": "Muy buen padr\u00f3n ubicado en punto estrat\u00e9gico de la ciudad.\nSobre la calle Constituyente, ideal par ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 390.000",
+        "description": "    \u00a1Bienvenidos a su nuevo hogar en Lagomar, Ciudad de la Costa! A solo 300 metros del mar, esta i ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 380.000",
+        "description": "Importante padron sobre Gral Flores con 13,40 mts de frente. El mismo se compone de casa principal a ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 360.000",
+        "description": "Oportunidad para inversores. 3casas de 1 dor y 2 ba\u00f1os, 2 dor y dos ba\u00f1os y 3 dor y dos ba\u00f1os , d ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 360.000",
+        "description": "Muy buena casa en PH totalmente reciclada , muy luminosa, impecable, consta de jard\u00edn enorme al fre ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 350.000",
+        "description": "Excelente P.H. 10 a\u00f1os de constru\u00edda en la mejor zona de Barra de  Carrasco con living comedor muy ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 350.000",
+        "description": "\u00a1Bienvenidos a la joya escondida de Lagomar, Ciudad de la Costa! A tan solo 300 metros del mar, est ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 340.000",
+        "description": "Ubicada en una posici\u00f3n privilegiada sobre la avenida principal de Atl\u00e1ntida, esta propiedad ofrec ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 320.000",
+        "description": "Excelente propiedad en un \u00e1rea de 1150 metros cuadrados, teniendo 200 metros construidos, consta de ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 320.000",
+        "description": "Son 2 casas iguales, paso a describir cada una(son gemelas);Muy buena casa, muy bien ubicada, entre  ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 310.000",
+        "description": "Venta de casa en propiedad horizontal con apartamento en primer piso totalmente independiente.\nEn pl ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 300.000",
+        "description": "Venta casa Shangril\u00e1 sur. Excelente construcci\u00f3n en una planta de planchada y tejas, consta de 3 d ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 295.000",
+        "description": "Chalet a dos aguas , de 4 dormitorios aberturas en aluminio y madera, pisos de cer\u00e1mica y flotante  ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 295.000",
+        "description": "Todo en 700 m2 de terreno  pr\u00f3ximo a Giannattasio al sur. Ideal dos familias, Casa principal de lad ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 290.000",
+        "description": "En excelente ubicaci\u00f3n sobre rambla !! En predio parquizado y cercado . Caba\u00f1a en dos plantas con  ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 290.000",
+        "description": "Esta propiedad en Parque del Plata Sur es una verdadera joya, ideal para quienes buscan espacio, com ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 290.000",
+        "description": "Vendemos exclente padron unico a mts del parque rodo, muy acogedor. El mismo se compone de amplio li ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 289.000",
+        "description": "Venta de muy buena casa en regimen de propiedad horizontal de altos, en la mejor zona de Punta Gorda ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 285.000",
+        "description": " EN MEDANOS DE SOLYMAR A 2 CUADRAS DE LA RAMBLA  CERCAADA PERIMETRALMENTE SE TRATA DE UNA CASA PRINC ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 285.000",
+        "description": "Excelente propiedad de construcci\u00f3n tradicional de ticholo y ladrillo, consta de 3 dormitorios uno  ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 285.000",
+        "description": "Construcci\u00f3n tradicional de ticholo, ladrillo y planchada. Muy buena propiedad a metros de Rambla e ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 280.000",
+        "description": "Impecable Chalet doble pared de ladrillos en dos plantas \nPlanta baja :  generoso living en desnivel ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 275.000",
+        "description": "Excelente chalet de \u00e9poca en muy buen estado a dos cuadras de la Rambla revestimiento frontal en pi ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 275.000",
+        "description": "Muy linda casa de 3 dormitorios y 2 ba\u00f1os, que cuenta adem\u00e1s con c\u00f3modo un living comedor, y un l ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 270.000",
+        "description": "Excelente casa en PU, la misma se desarrolla en 2 plantas. En PB jardin enbaldosado, liv comedor amp ..."
+    },
+    {
+        "type": "casas",
+        "price": "U$S 270.000",
+        "description": "    \u00a1Bienvenidos a su nuevo hogar en Lomas de Solymar, Ciudad de la Costa! \n\n Esta casa  cuenta con ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 900.000",
+        "description": "Excelente chacra de 29 has.3776 metros, ubicada a tan solo 200 metros de Ruta 75 , a la altura del k ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 690.000",
+        "description": "Caracter\u00edsticas Principales:\n\nUbicaci\u00f3n Estrat\u00e9gica: A solo minutos de Atl\u00e1ntida, esta propiedad ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 650.000",
+        "description": "Sobre Ruta 11, entre Ruta 8 y Paso de Estaci\u00f3n Pedrera,  excepcional predio con granja av\u00edcola (es ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 520.000",
+        "description": "Excelente chacra de 20 ha sobre ruta interbalnearia, con casa de 3 dormitorios, living comedor, coci ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 490.000",
+        "description": "Casa de Campo en un predio de 5 hect\u00e1reas, est\u00e1 ubicada a 300 metros de la ruta 12, a 20 km.de Pan ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 450.000",
+        "description": "Por la Ruta 60, en el km.35.500 en el Paraje denominado Puntas de Pan de Az\u00facar, tambi\u00e9n conocido  ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 450.000",
+        "description": "Casa de Campo en 12 has. a 12 km.de Ruta 9 y de la localidad de Grerorio Aznarez y a 12 km.de km.de  ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 430.000",
+        "description": "Campo de 86 has. denominado Chacras Entresierras.\nA 7 km.de Ruta 39, ingresando por el km.58 de la m ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 370.000",
+        "description": "Excelente chacra de 11,6 hect\u00e1reas, ubicada en el Balneario Jaureguiberry muy pr\u00f3xima a Ruta Inter ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 260.000",
+        "description": "Presentamos una encantadora chacra ubicada en Salinas, sobre ruta 87. \nEsta propiedad \u00fanica ofrece  ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 250.000",
+        "description": "Chacra a 44 km de Nueva Palmira - Paraje Colonia Concordia, Departamento de Soriano, 5 hectareas. \nC ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 250.000",
+        "description": "-\tChacra de retiro y recreaci\u00f3n (\u00e1rea total 3 has. 4450 metros)\n-\tMagn\u00edfica ubicaci\u00f3n en la tran ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 225.000",
+        "description": "Venta de excelente chacra para eventos, vivienda permanente, peque\u00f1o productor o para pasar el fin  ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 195.000",
+        "description": "Chacra de 7 hect\u00e1reas con muy buena casa, hermosa, hecha a nuevo, cuenta con dos ba\u00f1os, tres dormi ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 170.000",
+        "description": "Muy linda chacra y excelente ubicaci\u00f3n, a mts de ruta 11, en 2 plantas con muy linda vista al campo ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 125.000",
+        "description": "Venta de muy buena chacra de 3,5 hectareas.\nCuenta con una muy buena casa de 3 dormitorios.\nCocina d ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 110.000",
+        "description": "A 200 metros de Ruta 11, a la altura del km.152, se ofrecen 3 has.4735 metros.\nEn el predio hay dos  ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 110.000",
+        "description": "\u00a1Bienvenidos a la joya oculta de Estaci\u00f3n Atl\u00e1ntida! Imagina despertar cada ma\u00f1ana con el chirri ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 100.000",
+        "description": "Excelente chacra con un \u00e1rea de 3.8715 has.,  ubicada a tan solo 200 metros de Ruta 75 , a la altur ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 100.000",
+        "description": "Excelente chacra ubicada a los fondos de Villa Jardines de Pando, Sobre Camino Las Tropas y muy pr\u00f3 ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 92.000",
+        "description": "Venta de chacra de 3,5 hect\u00e1reas con muy buen galp\u00f3n.\nMuy buen chacra  ideal para plantar.\nGalp\u00f3n ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 90.000",
+        "description": "Chacra de 3 Hect\u00e1reas en Venta en Zona Fort\u00edn de Santa Rosa, bien pr\u00f3xima a Atl\u00e1ntida: Perfecta  ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 85.000",
+        "description": "Hermosa chacra de 7 has 7156 metros.\nCon una vivienda Contenedor, con living-comedor, kitchenett, ba ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 65.000",
+        "description": "Lote de Chacras en venta a tan solo 7,5 km. de Ruta 9, a la altura del kilometro 82, en el paraje So ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 46.000",
+        "description": "Excelentes chacras muy pr\u00f3ximas a Balneario La Floresta, sobre Ruta 35, en el kil\u00f3metro 60.500 .\nU ..."
+    },
+    {
+        "type": "chacras",
+        "price": "U$S 40.000",
+        "description": "A 2 km.de Poblado Capilla de Cella, Chacras de 3 y de 5 has.\nA la altura del km.78 de la Ruta 9 y a  ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 2.850.000",
+        "description": "Ingresa a la venta edificio de PB, sub suelo y 6 plantas con 2 ascensores. En sub suelo 282 m2, con  ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 700.000",
+        "description": "Redescubr\u00ed Carrasco. El predio del ex Hotel Riviera volver\u00e1 a la vida de la mano de Bil\u00fa Riviera. ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 680.000",
+        "description": "Excelente planta, 1 por piso, finas terminaciones, tres dormitorios(1 suite), 4 ba\u00f1os y servicio, t ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 620.000",
+        "description": "Espectacular apartamento con la mejor vista al Puertito del buceo, es una planta de 240 m2 + patio c ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 560.000",
+        "description": "Excelente planta con vista al Parque Biarritz , esquinero, luminoso, todo al frente, se compone de l ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 520.000",
+        "description": "Excelente planta con vista al mar , amplios espacios en un apartamento reciclado totalmente, \u00fanico  ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 507.600",
+        "description": "VIVA EN EL MEJOR LUGAR DE MONTEVIDEO, PRECIOS SUPER ATRACTIVOS, ZONA EXCLUSIVA Y LIMITADA.\n\nEDIFICIO ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 480.000",
+        "description": "Excelente planta frente al mar , muy luminosa , son 240 m2 en un apartamento por piso. Consta de un  ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 450.000",
+        "description": "Redescubr\u00ed Carrasco. El predio del ex Hotel Riviera volver\u00e1 a la vida de la mano de Bil\u00fa Riviera. ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 426.600",
+        "description": "OPORTUNIDAD DE INVERSION, O VIVIENDA, PROXIMO A BARRIOS PIVADOS, CARRASCO POLO CLUB.\nVIVIENDA PROMOV ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 418.800",
+        "description": "LE LAC el edificio que no te podes perder, CALIDAD PREMIUM CON LOS BENEFICIOS DE VIVIENDA PROMOVIDA  ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 385.000",
+        "description": "MORE BUCEO (Entrega Noviembre 2022)\n\nMORE Buceo es un edificio ubicado en la esquina de las Avenidas ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 360.000",
+        "description": "Muy buen Penthause, en impecable estado. El mismo se compone de living comedor, 2 dormitorios con pl ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 341.000",
+        "description": "OPORTUNIDAD DE INVERSION, O VIVIENDA, PROXIMO A BARRIOS PIVADOS, CARRASCO POLO CLUB.\nVIVIENDA PROMOV ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 339.900",
+        "description": "VIVA EN EL MEJOR LUGAR DE MONTEVIDEO, PRECIOS SUPER ATRACTIVOS, ZONA EXCLUSIVA Y LIMITADA.\n\nEDIFICIO ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 335.000",
+        "description": "Venta de apartamento en la rambla de Malvin.\nEl edificio fue construido por Campiglia en el a\u00f1o 200 ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 334.500",
+        "description": "UBICACI\u00d3N \nMore Echevarriarza es un proyecto inmobiliario ubicado en Pocitos, un sector de ciudad c ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 330.000",
+        "description": "Venta de muy buen apartamento en barrio privado Haras del Lago.\nEste barrio promueve el verde de la  ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 310.000",
+        "description": "Excelente apartamento sobre Av. de las Am\u00e9ricas con vista al lago, ampl\u00edo living comedor con hogar ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 310.000",
+        "description": "Este proyecto ofrece departamentos de 1 dromitorio, 2 dormitorios, 3 dormitorios y 3 dormitorios plu ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 310.000",
+        "description": "Excelente apartamento sobre Av. de las Am\u00e9ricas con vista al lago, ampl\u00edo living comedor con hogar ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 310.000",
+        "description": "Venta de excelente apartamento en muy buen edificio sobre avenida brasil.\nEl edificio es del a\u00f1o 76 ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 310.000",
+        "description": "Muy buen edificio pr\u00f3ximo a servicios , sobre Interbalnearia, 3 dor., 3 ba\u00f1os, losa radiante secto ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 302.756",
+        "description": "MORE BUCEO (Entrega Noviembre 2022)\n\nMORE Buceo es un edificio ubicado en la esquina de las Avenidas ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 300.000",
+        "description": "Excelente apartamento con finas terminaciones, amplio, 81 m2, luminoso , con terraza con vista later ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 300.000",
+        "description": "Venta de gran planta en el corazon de Pocitos, piso alto con orientacion norte, a 150 mts del mar; e ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 291.000",
+        "description": "Excelente planta en lo mejor del barrio Malv\u00edn a escasos metros del Parque Barofio, del lado de riv ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 289.000",
+        "description": "Venta de muy buen apartamento en la mejor zona de Punta Gorda.\nEl mismo se encuentra en un primer pi ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 285.000",
+        "description": "Excelente apartamento ubicado en Torre Jard\u00edn, amplio living comedor con hermosa vista a los jardin ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 285.000",
+        "description": "Apartamento en Pocitos - Montevideo\n\nUnidad de 3 Dormitorios 3 Ba\u00f1os \nCocina : Definida, Living Com ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 285.000",
+        "description": "Este proyecto ofrece departamentos de 1 dromitorio, 2 dormitorios, 3 dormitorios y 3 dormitorios plu ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 279.700",
+        "description": "LE LAC el edificio que no te podes perder, CALIDAD PREMIUM CON LOS BENEFICIOS DE VIVIENDA PROMOVIDA  ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 275.000",
+        "description": "Redescubr\u00ed Carrasco. El predio del ex Hotel Riviera volver\u00e1 a la vida de la mano de Bil\u00fa Riviera. ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 265.000",
+        "description": "Este proyecto ofrece departamentos de 1 dromitorio, 2 dormitorios, 3 dormitorios y 3 dormitorios plu ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 265.000",
+        "description": "Este proyecto ofrece departamentos de 1 dromitorio, 2 dormitorios, 3 dormitorios y 3 dormitorios plu ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 265.000",
+        "description": "Excelente edificio a pasos de CarOne y Aeropuerto , 2 dor y 2 ba\u00f1os, 1 en suite con balc\u00f3n de 4 m"
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 260.000",
+        "description": "Muy buen edificio esquina, de estilo, construido en el a\u00f1o 1929 en 18 de Julio y Minas. El mismo ti ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 248.700",
+        "description": "VIVA EN EL MEJOR LUGAR DE MONTEVIDEO, PRECIOS SUPER ATRACTIVOS, ZONA EXCLUSIVA Y LIMITADA.\n\nEDIFICIO ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 245.000",
+        "description": "Venta apartamento 2 dormitorios a estrenar en el coraz\u00f3n del centro en zona muy emblem\u00e1tica de la  ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 239.000",
+        "description": "Excelente apartamento exclusivamente para oficinas, el mismo se encuentra en impecable estado. Cuant ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 235.000",
+        "description": "Venta de muy buen apartamento en piso alto sobre la avenida soca haciendo esquina con rivera.\nEl mis ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 227.000",
+        "description": "Excelente apartamento en la mejor ubicaci\u00f3n de Malv\u00edn, consta de amplio living comedor con pisos d ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 218.000",
+        "description": "Excelente planta  a estrenar,  por ascensor, de 2 dormitorios al frente, muy luminoso, orientado al  ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 206.900",
+        "description": "Entrega: OCTUBRE 2022\n\nNOSTRUM MALV?N es un Proyecto Residencial ubicado en el barrio hom\u00f3nimo, una ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 200.000",
+        "description": "Excelente apartamento sobre Concepci\u00f3n del Uruguay a metros de la Rambla Rep. de Chile y con vista  ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 199.000",
+        "description": "Venta apartamento de 2 dormitorios en la mejor zona de tres cruces, edificio torre seis.\nEdificio de ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 195.000",
+        "description": "Excelente apartamento en hermoso edificio de estilo, segundo piso por escalera al frente. Amplio liv ..."
+    },
+    {
+        "type": "apartamentos",
+        "price": "U$S 193.600",
+        "description": "LE LAC el edificio que no te podes perder, CALIDAD PREMIUM CON LOS BENEFICIOS DE VIVIENDA PROMOVIDA  ..."
+    }
+]
